@@ -1,0 +1,6 @@
+.qmake.stash
+Makefile
+TODO*
+.build/
+styles/
+qt5gmdamaterialstyledemo
